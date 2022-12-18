@@ -11,7 +11,7 @@ This project was created using CRA and the TypeScript template in an environment
 
 ## Getting Started
 
-In the project directory, after running <code>npm install</code> you can run:
+In the project directory, after running <code>npm install</code>, you can run:
 
 ### `npm start`
 
