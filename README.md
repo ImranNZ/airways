@@ -4,7 +4,7 @@ This project was created using CRA and the TypeScript template in an environment
 
 ## Assumptions
 
-- Given the points are entered via text input this and the likely number of pairs ranges from 2 to 10, I've made the assumption that a brute force algorithm is fit for purpose.
+- Given the points are entered via text input and the likely number of pairs ranges from 2 to 10, I've made the assumption that a brute force algorithm is fit for purpose.
 - If two pairs of points are equally close or equally far, then it is OK to display both of the duplicates.
 - Use of Bootstrap is OK.
 - Jest tests are used for demonstration, however all test cases may not be covered.
